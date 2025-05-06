@@ -12,6 +12,7 @@ const corsOptions = {
     origin: 'http://localhost:8080',
     origin: 'http://localhost:5173',
     origin: 'https://apiexamen2-v86n.onrender.com',
+    origin: 'https://frontexamen2.onrender.com',
     credentials: true
 };
 
