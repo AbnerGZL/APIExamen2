@@ -1,4 +1,4 @@
-import Evento from "../models/eventos.js";
+import Evento from "../models/Eventos.js";
 import Organizador from "../models/Organizador.js";
 
 
