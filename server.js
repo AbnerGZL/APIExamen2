@@ -7,9 +7,11 @@ import userRoutes from './app/routes/user.routes.js';
 import eventosRoutes from './app/routes/eventos.routes.js';
 
 const app = express();
+
 const corsOptions = {
     origin: 'http://localhost:8080',
     origin: 'http://localhost:5173',
+    origin: 'https://apiexamen2-v86n.onrender.com',
     credentials: true
 };
 
